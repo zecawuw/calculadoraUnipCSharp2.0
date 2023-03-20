@@ -1,0 +1,8 @@
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\bin\Debug\CalculadoraNotasUnip.exe.config
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\bin\Debug\CalculadoraNotasUnip.exe
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\bin\Debug\CalculadoraNotasUnip.pdb
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\obj\Debug\CalculadoraNotasUnip.csproj.AssemblyReference.cache
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\obj\Debug\CalculadoraNotasUnip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\obj\Debug\CalculadoraNotasUnip.csproj.CoreCompileInputs.cache
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\obj\Debug\CalculadoraNotasUnip.exe
+C:\Users\Salatiel\source\repos\CalculadoraNotasUnip\CalculadoraNotasUnip\obj\Debug\CalculadoraNotasUnip.pdb
